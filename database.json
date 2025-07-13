@@ -12,6 +12,9 @@
     "totalRequests": 0,
     "lastUpdated": "2025-06-14T14:28:43.710Z"
   },
+  "settings": {
+    "autoread": true
+  },
   "6283826081005": {
     "name": "Luffy",
     "password": "luffy"
